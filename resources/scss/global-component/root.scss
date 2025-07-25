@@ -1,0 +1,13 @@
+:root {
+    --theme: #FF4C51;
+    --font-family: "Dosis", sans-serif;
+    --theme-light: #FF4C5133;
+    --theme-lightest: #9155FD0C;
+    --theme-dark: #a6282c;
+    --light-black: rgb(0,0,0,0.5);
+}
+
+body {
+    font-family: var(--font-family) !important;
+    font-size: 17px !important;
+}
